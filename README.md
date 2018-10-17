@@ -17,8 +17,10 @@ javac ThreeDigits.java Node.java
 ### Run the script
 ```
 java ThreeDigits [search algorithm] [input filename]
+```
 
 Example:
+```
 java ThreeDigits A puzzle.txt
 ```
 
@@ -31,11 +33,10 @@ Search algoirthms:
 * I = IDS
 
 Input file example:
-
 320
 110
 
-### Result
+### Output
 There will be two lines. The first line will contain the solution path found from the start node to the goal node.
 The second line will contain the order of nodes expanded during the search process.
 
