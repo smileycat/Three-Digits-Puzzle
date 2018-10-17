@@ -33,8 +33,10 @@ Search algoirthms:
 * I = IDS
 
 Input file example:
+```
 320
 110
+```
 
 ### Output
 There will be two lines. The first line will contain the solution path found from the start node to the goal node.
